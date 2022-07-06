@@ -8,7 +8,7 @@ body{
     background-size: cover;
 }
 .Header{
-    color: rgb(135, 224, 17);
+    color: rgb(192, 253, 116);
     text-align: center;
     padding: 60px;
     width: 60%;
@@ -32,9 +32,11 @@ body{
     margin: auto;
     padding: 20px 5px;
     margin-bottom: 40px;
+    font-size: x-large;
 }
 .Donate-section h1{
     padding-top: 20px;
+    font-size: xx-large;
 }
 .Diposit{
     background-color: burlywood;
@@ -104,4 +106,18 @@ body{
     padding: 10px 30px;
     text-decoration: none;
     border-radius: 10px;
+}
+.another-h{
+    color: rgb(135, 224, 17);
+    text-align: center;
+    padding: 60px;
+    width: 60%;
+    margin-left: 200px;
+    font-size: x-large;
+  
+}
+.end-part{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 150px;
 }

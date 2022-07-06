@@ -1,0 +1,41 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.banner{
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    padding: 200px 0;
+    background-size: cover;
+}
+.Header{
+    color: rgb(247, 250, 253);
+    text-align: center;
+    padding: 80px;
+  
+}
+.Header a{
+    color: rgb(250, 246, 246);
+    background-color: rgb(248, 119, 44);
+    margin-bottom: 80px;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.Donate-section{
+    text-align: center;
+}
+.Donate-section p{
+    width: 65%;
+    margin: auto;
+    padding: 20px 5px;
+    margin-bottom: 40px;
+}
+.Donate-section h1{
+    padding-top: 20px;
+}
+.Diposit{
+    background-color: burlywood;
+    padding: 20px 40px;
+    margin-left: 40px;
+   
+}

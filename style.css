@@ -8,9 +8,12 @@ body{
     background-size: cover;
 }
 .Header{
-    color: rgb(247, 250, 253);
+    color: rgb(135, 224, 17);
     text-align: center;
     padding: 60px;
+    width: 60%;
+    margin-left: 200px;
+    font-size: x-large;
   
 }
 .Header a{
@@ -72,4 +75,33 @@ body{
 #shelter{
     border: 1px solid black;
     margin-left: 30px;
+}
+.blog{
+    display: flex;
+                                                            
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+    margin-top: 100px;
+
+}            
+.half-width img{
+    width: 70%;
+    height: 110%;
+ 
+}                                                
+.half-width h1{
+    font-size: 350%;
+}
+.half-width p{
+    font-size: large;
+}
+.half-width a{
+    color: rgb(250, 246, 246);
+    background-color: rgb(248, 119, 44);
+    margin-bottom: 80px;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 10px;
 }
